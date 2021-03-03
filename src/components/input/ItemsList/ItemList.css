@@ -1,0 +1,21 @@
+
+.row{
+    padding:5px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    background-color:rgb(112, 111, 114) 
+}
+.removeBtn {
+    background-color: red;
+    border-radius: 15px;
+    outline: none;
+
+}
+.editBtn{
+    outline: none;
+    background-color: gold;
+    margin-left: 3px;
+    border-radius: 15px;
+}
